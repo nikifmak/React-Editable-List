@@ -1,5 +1,10 @@
 # React Editable List
 
+## Run server
+```
+npm run start
+```
+
 ## Controlled Form vs Simple Form
 
 ```http
@@ -17,4 +22,3 @@ http://127.0.0.1:8080/editablelist
 ```http
 http://127.0.0.1:8080
 ```
-
